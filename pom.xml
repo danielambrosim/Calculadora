@@ -1,0 +1,27 @@
+<dependencies>
+    <!-- Dependência para RMI -->
+    <dependency>
+        <groupId>javax.rmi</groupId>
+        <artifactId>javax.rmi-api</artifactId>
+        <version>1.0</version>
+    </dependency>
+    
+    <!-- Dependências para ZXing -->
+    <dependency>
+        <groupId>com.google.zxing</groupId>
+        <artifactId>core</artifactId>
+        <version>3.4.1</version>
+    </dependency>
+    <dependency>
+        <groupId>com.google.zxing</groupId>
+        <artifactId>javase</artifactId>
+        <version>3.4.1</version>
+    </dependency>
+    
+    <!-- Dependência para leitura e escrita de imagens -->
+    <dependency>
+        <groupId>javax.imageio</groupId>
+        <artifactId>imageio</artifactId>
+        <version>1.0</version>
+    </dependency>
+</dependencies>
