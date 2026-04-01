@@ -23,18 +23,6 @@ Este projeto implementa uma calculadora remota onde diversos clientes podem se c
 
 ---
 
-## 🏗️ Estrutura do Projeto
-Calculadora/
-├── Calculadora.java # Lógica principal das operações matemáticas
-├── ServidorCalculadora.java # Servidor responsável por processar requisições
-├── ClienteCalculadora.java # Cliente para envio de operações matemáticas
-├── ClienteNotificacao.java # Cliente para recebimento de notificações
-├── pom.xml # Configuração do Maven
-└── README.md # Documentação do projeto
-
-
----
-
 ## 🚀 Como Executar
 
 ### ✅ Pré-requisitos
